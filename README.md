@@ -1,4 +1,6 @@
 # Solana-Winrate-Wallet-Checker
+![d16cb9086f2ad9af6fb1c28c022e3842.png](https://imgtr.ee/images/2024/07/21/d16cb9086f2ad9af6fb1c28c022e3842.png)
+
 💎💎💎 Telegram Bot to Analyze Solana Wallet Winrate Checker For Free without limit 💎💎💎
 
 # Introducing the Solana Wallet Winrate Checker Bot: Your Free Tool for Informed Trading Decisions!
